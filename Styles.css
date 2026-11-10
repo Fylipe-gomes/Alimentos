@@ -46,7 +46,3 @@ tr:nth-child(even){
 tr:hover{
     background-color:  #e5efff;
 }
-
-.preco{
-    font-weight: bold;
-}
